@@ -1,6 +1,6 @@
 //check off specific todo by clicking when li is clicked in ul
 $("ul").on("click", "li", function(){
-	$(this).toggleClass(".completed");
+	$(this).toggleClass("completed");
 });
 
 //click on x to delete todo by click X in span in ul
