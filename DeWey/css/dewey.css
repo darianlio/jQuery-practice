@@ -1,0 +1,15 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+canvas {
+	width: 100%;
+	height: 100%;
+	background: url(http://i0.kym-cdn.com/photos/images/newsfeed/001/328/900/8e4.jpg);
+}
+
+#knuckles {
+	width: 50px;
+	height: 50px;
+}
